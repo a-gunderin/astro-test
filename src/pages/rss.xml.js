@@ -9,7 +9,3 @@ export async function GET(context) {
     customData: `<language>en-us</language>`,
   });
 }
-
-export default defineConfig({
-  site: 'https://stormy-comfort-astro.surge.sh/',
-});
